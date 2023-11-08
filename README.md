@@ -1,4 +1,4 @@
-# Deezer2Spotify.roroduJUDO
+# Deezer2Spotify.humanWasHere
 
 ## Table of matters
 1. [General informations](#deezer2spotify_script-)
