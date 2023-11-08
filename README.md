@@ -49,7 +49,7 @@ Create a folder on your local machine. In cmd :
 cd <your_folder_name>
 ```
 ```
-git clone https://github.com/roroduJUDO/deezer2spotify_user
+git clone https://github.com/humanWasHere/deezer2spotify_user
 ```
 Download the libraries used in the script
 ```
