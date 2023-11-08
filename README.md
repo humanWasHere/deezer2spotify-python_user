@@ -4,7 +4,7 @@
 1. [General informations](#deezer2spotify_script-)
 2. [Features](#features--eyes)
 3. [Services](#services-apis)
-4. [Informations to provide](informations2enter-)
+4. [Informations to provide](#informations2enter-)
 5. [Installation](#installation-)
 6. [Modules](#modules-)
 <!--7. [Warning](#warning-)-->
